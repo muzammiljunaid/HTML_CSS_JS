@@ -1,0 +1,31 @@
+body{
+    background-color:  aqua;
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: red;
+    color: orange;
+}
+
+p.changex{
+    /*background-color: purple;*/
+    color: white;
+    font-size: 20px;
+    padding: 9px;
+}
+
+.fontx{
+    color: aqua;
+    background-color: orangered;
+}
+
+.sizex{
+    border: thick green solid;
+}
+
+
+.imx{
+    background-color: lightcoral;
+}
